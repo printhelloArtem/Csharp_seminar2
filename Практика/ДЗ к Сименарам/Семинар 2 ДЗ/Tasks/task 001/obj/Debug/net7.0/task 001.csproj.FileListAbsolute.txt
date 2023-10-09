@@ -1,0 +1,14 @@
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\bin\Debug\net7.0\task 001.exe
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\bin\Debug\net7.0\task 001.deps.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\bin\Debug\net7.0\task 001.runtimeconfig.json
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\bin\Debug\net7.0\task 001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\bin\Debug\net7.0\task 001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.AssemblyInfoInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.AssemblyInfo.cs
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.csproj.CoreCompileInputs.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\refint\task 001.dll
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.pdb
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\task 001.genruntimeconfig.cache
+C:\Users\art20\Documents\GeekBrains\C-sharp\Практика\ДЗ к Сименарам\Семинар 2 ДЗ\Tasks\task 001\obj\Debug\net7.0\ref\task 001.dll
